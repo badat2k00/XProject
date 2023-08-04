@@ -12,7 +12,7 @@ Hiển thị danh sách nhân viên theo bản ghi mới nhất
 Trong yêu cầu 3 em bị lỗi 
   Undefined variable $employees (không thể lấy ra $employees là các bản ghi employee 
   và lỗi foreach() argument must be of type array|object, null given  do $employee ko lấy được
-  Em đã gặp lỗi này trước đó từ buổi thứ 4 (2/8/2023) nhưng đã làm mọi cách vẫn không sửa được :
+  Em đã gặp lỗi này trước đó từ buổi thứ 4 (2/8/2023) nhưng đã làm mọi cách vẫn không sửa được .
 
 Em đã sửa bằng cách thêm class Employee và thêm đoạn kết nối và select bản ghi trước phần duyệt mảng foreach 
                
